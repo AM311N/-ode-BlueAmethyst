@@ -63,4 +63,4 @@
 [![Replace this with a description](https://cdn.modrinth.com/data/cached_images/bc79c72b5b47ffc512698fe82401105330e8bb89.png)](https://t.me/Amelinnn)
 [![Replace this with a description](https://cdn.modrinth.com/data/cached_images/c896d7f213602be23a10c723a81ac3f0df28064a.png)](https://www.donationalerts.com/r/Amelin_)
 [![Replace this with a description](https://cdn.modrinth.com/data/cached_images/bc472e8476c7d02ccdc57a82c6804767febcdaf4.png)](https://www.youtube.com/channel/UCgn-EfsxyuviECZ_RXTaxfg)
-[![Replace this with a description](https://cdn.modrinth.com/data/cached_images/5bd0563fdbdc1e87bfa9cf47743dfcc8d12e04af.png)](https://modrinth.com/resourcepack/blue-amethyst!)
+[![Replace this with a description](https://cdn.modrinth.com/data/cached_images/5bd0563fdbdc1e87bfa9cf47743dfcc8d12e04af.png)](https://modrinth.com/resourcepack/blue-methamethyst!)
